@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/App/static/js/main.7a13e6da.js",
-    "index.html": "/App/index.html",
-    "main.7a13e6da.js.map": "/App/static/js/main.7a13e6da.js.map"
+    "main.js": "/App.git/static/js/main.7a13e6da.js",
+    "index.html": "/App.git/index.html",
+    "main.7a13e6da.js.map": "/App.git/static/js/main.7a13e6da.js.map"
   },
   "entrypoints": [
     "static/js/main.7a13e6da.js"
